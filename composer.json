@@ -1,6 +1,6 @@
 {
     "name": "litebox/framework",
-    "description" : "Light framework",
+    "description" : "litebox framework",
     "keywords": ["framework"],
     "authors": [
         {
@@ -12,6 +12,6 @@
         "php": ">=7.1"
     },
     "autoload": {
-        "psr-4": {"Lighter\\": "src/lighter"}
+        "psr-4": {"Litebox\\": "src/litebox"}
     }
 }
