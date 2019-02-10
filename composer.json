@@ -1,0 +1,17 @@
+{
+    "name": "lighter/framework",
+    "description" : "Light framework",
+    "keywords": ["framework"],
+    "authors": [
+        {
+            "name": "Pavel K.",
+            "email": "info@hard-skills.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {"Lighter\\": "src/lighter"}
+    }
+}
