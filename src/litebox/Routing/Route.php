@@ -1,6 +1,6 @@
 <?php
 
-namespace Lighter\Routing;
+namespace Litebox\Routing;
 
 
 class Route
